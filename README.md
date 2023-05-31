@@ -93,4 +93,4 @@ Robotics Banners (Aerospace Robotics [SILVER], Robotics [GOLD])
 *Assuming executing in linux or macOs:*
 1. From a terminal console run `which php`.
 2. Replace the first line with '#!' followed by the value returned in step one.
-3. From the rood firectory of this project (the folder in which this file resides), run `./reports/sessions_by_last_name.php` in the terminal to execute the program.
+3. From the root firectory of this project (the folder in which this file resides), run `./reports/sessions_by_last_name.php` in the terminal to execute the program.
